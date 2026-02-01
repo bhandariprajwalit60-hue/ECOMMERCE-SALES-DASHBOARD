@@ -10,7 +10,7 @@ The dashboard provides insights into sales performance, profitability, customer 
 - **Source:** Kaggle  
 - **Type:** Public ecommerce sales dataset (random / sample data)  
 - **Purpose:** Learning and portfolio demonstration  
-- **Note:** This dataset does not represent a real company and is used only for practice.
+
 
 ---
 
